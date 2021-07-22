@@ -64,6 +64,7 @@ You can also support the list directly:
 - [Vechain](https://www.vechain.com/) - blockchain-as-a-service
 - [RSK](https://www.rsk.com/) - Smart contracts for Bitcoin
 - [ArcBlock](https://www.arcblock.io/) - a platform that gives developers everything they need to create, deploy and manage apps, blockchains and decentralized identity for the decentralized web
+- [Covalent](https://www.covalenthq.com/) - a unified API bringing visibility to billions of blockchain data points
 
 ### Exchanges
 
